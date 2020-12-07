@@ -1,0 +1,21 @@
+
+
+
+body {
+    font-family: Oswald;
+    background-color: rgb(44, 44, 56);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-weight: 200;
+    
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+.app {
+    
+}

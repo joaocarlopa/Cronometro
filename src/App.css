@@ -1,0 +1,26 @@
+@media (max-width: 813px) {
+    .App .Cards {
+        max-width: 315px;
+        min-width: 315px;
+        display: flex;
+        flex-wrap: wrap;
+        
+
+    }
+
+   
+
+   
+}
+
+
+.App .Cards {
+    margin-top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 22px;
+
+    
+}
+

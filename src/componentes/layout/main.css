@@ -1,0 +1,54 @@
+
+
+button {
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-family: cursive;
+    background-color: rgb(29, 168, 187);
+    cursor: pointer;
+    max-width: 123px;
+    min-width: 123px;
+  
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.425);
+    filter: brightness(65%);
+    position: relative;
+    left: 1px;
+}
+
+button:active {
+    position: relative;
+    top: 1px;
+}
+
+.tudo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+   
+    
+}
+
+.content_clock {
+    margin-top: 15px;
+    background-color: rgb(206, 205, 204);
+    border-radius: 10px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 2em;
+    margin-left: 40px;
+
+    
+
+}
+
+.red {
+    color: red;
+}
