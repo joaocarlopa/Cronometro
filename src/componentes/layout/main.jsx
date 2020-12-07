@@ -38,7 +38,7 @@ function inicia() {
                 if (xe.classList.contains('pause')) {
                     
                     document.querySelector('.content_clock').classList.add("red");
-                    if (document.querySelector('.content_clock').innerText == '00:00:00') {
+                    if (document.querySelector('.content_clock').innerText === '00:00:00') {
                         document.querySelector('.content_clock').classList.remove('red');
                     }
                     clearInterval(tempo);
