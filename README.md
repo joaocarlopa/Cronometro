@@ -16,6 +16,7 @@ Utilize 'npm i' para instalar todas dependências
 
 ## Uso
 
-```Para entrar no modo desenvolvimento, utilize 'npm start'.
+```
+Para entrar no modo desenvolvimento, utilize 'npm start'.
 E para criar a build utilize o comando 'npm run-script build'.
 ```
