@@ -11,7 +11,7 @@
 
 
 ```
-• Utilize 'npm i' para instalar todas dependências
+• Utilize 'npm i' para instalar todas as dependências
 ```
 
 ## Uso
